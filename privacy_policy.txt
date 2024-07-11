@@ -1,3 +1,5 @@
 This application does not collect or store personal data.
 
-If you installed this application from Google Play, then Google Play does collect some personal data. Please see the privacy policy for Google Play Services here: https://policies.google.com/privacy
+If you installed this application from Google Play, then Google Play may collect some personal data. Please see the privacy policy for Google Play Services here: https://policies.google.com/privacy
+
+If you installed this application from Apple Store, then Apple Store may collect some personal data. Please see the privacy policy for Google Play Services here: https://www.apple.com/legal/privacy
